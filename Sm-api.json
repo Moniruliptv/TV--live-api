@@ -2,13 +2,13 @@
   {
     "id": "somoy",
     "name": "Somoy TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/1/12/Somoy_TV_logo.png",
-    "url": "https://rtmp.smartstream.cloud:1936/somoy/somoy/playlist.m3u8"
+    "logo": "https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",
+    "url": "http://38.96.178.201/live/TSports/index.m3u8"
   },
   {
     "id": "tsports",
     "name": "T Sports",
     "logo": "https://i.ibb.co/tZLrkZy/tsports.png",
-    "url": "https://cdn-03.sportzfy.live/sptfy/tsports.stream/playlist.m3u8"
+    "url": "http://38.96.178.201/live/TSports/index.m3u8"
   }
 ]
