@@ -73,9 +73,8 @@
     "id": "https://rex-streaming.vercel.app/api/x/167571.m3u8",
     "name": "Sony Sports 2 HD",
     "logo": "https://i.postimg.cc/v8rY12Yw/Sony-Sports-2-HD.jpg"
-  }
-]
-[
+  },
+
   {
     "id": "https://start.vercel.app/api/zee_action.m3u8",
     "name": "Zee Action",
