@@ -73,5 +73,80 @@
     "id": "https://rex-streaming.vercel.app/api/x/167571.m3u8",
     "name": "Sony Sports 2 HD",
     "logo": "https://i.postimg.cc/v8rY12Yw/Sony-Sports-2-HD.jpg"
+  },
+  {
+    "id": "https://start.vercel.app/api/zee_action.m3u8",
+    "name": "Zee Action",
+    "logo": "https://i.postimg.cc/Vvfy53T4/Zee-Action.jpg"
+  },
+  {
+    "id": "https://start.vercel.app/api/zee_anmol.m3u8",
+    "name": "Zee Anmol",
+    "logo": "https://i.postimg.cc/c4hjk9jG/Zee-Anmol.jpg"
+  },
+  {
+    "id": "https://start.vercel.app/api/zee_cinemahd.m3u8",
+    "name": "Zee Cinema HD",
+    "logo": "https://i.postimg.cc/3RPSnvm5/Zee-Bioscope.jpg"
+  },
+  {
+    "id": "https://start.vercel.app/api/zee_cinema.m3u8",
+    "name": "Zee Cinema",
+    "logo": "https://i.postimg.cc/4dmKMbKg/Zee-Bollywood.jpg"
+  },
+  {
+    "id": "https://start.vercel.app/api/zee_bollywood.m3u8",
+    "name": "Zee Bollywood",
+    "logo": "https://i.postimg.cc/9XzRwVWX/Zee-Cinema.jpg"
+  },
+  {
+    "id": "https://start.vercel.app/api/zee_classic.m3u8",
+    "name": "Zee Classic",
+    "logo": "https://i.postimg.cc/g0P13F6Y/Zee-Cinema-HD.jpg"
+  },
+  {
+    "id": "https://start.vercel.app/api/zee_thirai.m3u8",
+    "name": "Zee Thirai",
+    "logo": "https://i.postimg.cc/8zBnDXZn/Zee-Classic.jpg"
+  },
+  {
+    "id": "https://start.vercel.app/api/zee_talkies.m3u8",
+    "name": "Zee Talkies",
+    "logo": "https://i.postimg.cc/1trpDpB3/Zee-Thirai.jpg"
+  },
+  {
+    "id": "https://start.vercel.app/api/zee_yuva.m3u8",
+    "name": "Zee Yuva",
+    "logo": "https://i.postimg.cc/Sx7YFVk6/Zee-Talkies.jpg"
+  },
+  {
+    "id": "https://start.vercel.app/api/zee_bioscope.m3u8",
+    "name": "Zee Bioscope",
+    "logo": "https://i.postimg.cc/X78Z8rxW/Zee-Yuva.jpg"
+  },
+  {
+    "id": "https://start.vercel.app/api/star_gold.m3u8",
+    "name": "Star Gold",
+    "logo": "https://i.postimg.cc/8CP5zZyV/Star-Gold-HD.jpg"
+  },
+  {
+    "id": "https://start.vercel.app/api/star_gold_select.m3u8",
+    "name": "Star Gold Select",
+    "logo": "https://i.postimg.cc/yN9GHN8z/Star-Gold-Select.jpg"
+  },
+  {
+    "id": "https://start.vercel.app/api/star_gold_thrills.m3u8",
+    "name": "Star Gold Thrills",
+    "logo": "https://i.postimg.cc/8CjYqXXr/Star-Gold-Thrills.jpg"
+  },
+  {
+    "id": "https://start.vercel.app/api/star_gold_romance.m3u8",
+    "name": "Star Gold Romance",
+    "logo": "https://i.postimg.cc/Hk7d61Pf/Star-Gold-Romance.jpg"
+  },
+  {
+    "id": "https://start.vercel.app/api/utsav_gold.m3u8",
+    "name": "Utsav Gold",
+    "logo": "https://i.postimg.cc/NFJKtDZ5/Utsav-Gold.jpg"
   }
 ]
