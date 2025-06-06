@@ -1,10 +1,5 @@
 [
   {
-    "id": "https://funn-g1163.huibo.tv/DGI/H2102/chunks.m3u8?p=49&cf=1744984809&d=&ip=60.109.86.40&e=1794985409&h=1bd779f6c79b0f4909848dd023aff83d",
-    "name": "T Sports HD",
-    "logo": "https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg"
-  },
-  {
     "id": "http://38.96.178.201/live/TSports/index.m3u8",
     "name": "T Sports HD",
     "logo": "https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg"
@@ -18,10 +13,10 @@
     "id": "https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8",
     "name": "T Sports HD",
     "logo": "https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg"
+  },
+  {
+    "id": "http://38.96.178.201/live/STARJALSHA/index.m3u8",
+    "name": "Star Jolsha",
+    "logo": "https://i.ibb.co.com/sample-logo.jpg"
   }
-{
-    "id" :"http://38.96.178.201/live/STARJALSHA/index.m3u8",
-    "name":"Star Jolsha"
-    " logo":
-}
 ]
